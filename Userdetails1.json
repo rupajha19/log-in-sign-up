@@ -1,0 +1,32 @@
+{
+   "Dimple@123dimple": {
+      "Username": "Dimple",
+      "Password": "Dimple@123dimple",
+      "Profile": {
+         "Description: ": "dfg",
+         "Birthdate: ": "01/01/2000",
+         "Hobbies: ": "cghjk",
+         "Gender": "f"
+      }
+   },
+   "Rupajha@123": {
+      "Username": "Rupa",
+      "Password": "Rupajha@123",
+      "Profile": {
+         "Description: ": "fghj",
+         "Birthdate: ": "01/01/2000",
+         "Hobbies: ": "fghjk",
+         "Gender": "f"
+      }
+   },
+   "Sakshi@123": {
+      "Username": "sakshi",
+      "Password": "Sakshi@123",
+      "Profile": {
+         "Description: ": "dfghj",
+         "Birthdate: ": "01/01/2000",
+         "Hobbies: ": "fghjk",
+         "Gender": "f"
+      }
+   }
+}
